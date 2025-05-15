@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import './quiz.css';
-import { quizData } from '../../assets/data.js';
+import { quizData } from '../data.js';
 
 const Quiz = () => {
     let [index, setIndex] = useState(0);
