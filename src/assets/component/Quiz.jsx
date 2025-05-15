@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import './quiz.css';
+import './Quiz.css';
 import { quizData } from '../data.js';
 
 const Quiz = () => {
